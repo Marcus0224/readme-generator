@@ -1,13 +1,13 @@
-# run boy
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+# Readme Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Github URL
 
-  [mike](Httph://github.commike)
+  [marcus0224](Httph://github.commarcus0224)
 
   ## Description
 
-  running
+  ReadMe
 
   ## Table of Contents
 
@@ -26,13 +26,13 @@
   ## Usage
 
   ## License
-      Copyright © Boost1.0. All rights reserved. 
+      Copyright © MIT. All rights reserved. 
       
-      Licensed under the Boost1.0 license.
+      Licensed under the MIT license.
 
   ## Contributors
 
-  mike
+  Marc St louis
 
   Contact me at $(data.email)
 
