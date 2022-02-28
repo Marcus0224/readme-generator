@@ -1,13 +1,13 @@
-# Readme Generator
+# ReadMe Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Github URL
 
-  [marcus0224](Httph://github.commarcus0224)
+  [Marcus0224](Httph://github.comMarcus0224)
 
   ## Description
 
-  ReadMe
+  A read me from scratch 
 
   ## Table of Contents
 
