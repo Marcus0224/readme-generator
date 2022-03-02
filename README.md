@@ -21,6 +21,6 @@ It's a Node.js based tool where users can generate read me for their repo projec
 
 ![](assets/Terminal.png)
 
-![](assets/VS code read me.png)
+![](assets/readme.png)
 
 
